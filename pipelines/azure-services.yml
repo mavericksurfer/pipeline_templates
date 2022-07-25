@@ -13,7 +13,6 @@ resources:
       type: github
       name: mavericksurfer/pipeline_templates
       ref: refs/tags/v0.7.0
-      endpoint: Pipeline-Templates
   
 pool:
   vmImage: 'windows-latest'
