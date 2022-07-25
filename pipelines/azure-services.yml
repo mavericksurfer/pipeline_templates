@@ -12,7 +12,6 @@ resources:
     - repository: pipelinetemplates
       type: github
       name: mavericksurfer/pipeline_templates
-      ref: refs/tags/v0.7.0
       endpoint: mavericksurfer
   
 pool:
